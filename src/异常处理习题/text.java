@@ -34,7 +34,7 @@ public class text {
 	public static void main(String[] args) {
 		try {
 			System.out.print(B.P("12345a"));
-		}catch(Exception e){
+		}catch(A e){
 			e.printStackTrace();
 		}
 	}
